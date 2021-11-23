@@ -1,0 +1,9 @@
+[submodule "freerouting"]
+	path = freerouting
+	url = https://github.com/freerouting/freerouting
+[submodule "kicad_tools"]
+	path = kicad_tools
+	url = https://github.com/xtoolbox/kicad_tools
+[submodule "kicad-action-scripts"]
+	path = kicad-action-scripts
+	url = https://github.com/jsreynaud/kicad-action-scripts
