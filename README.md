@@ -1,2 +1,3 @@
 # plugins_kicad
- kicad插件集合
+ KiCAD插件集合
+ 收集适用于KiCAD的Plugins/Scripts
