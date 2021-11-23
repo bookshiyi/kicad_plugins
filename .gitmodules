@@ -7,3 +7,6 @@
 [submodule "kicad-action-scripts"]
 	path = kicad-action-scripts
 	url = https://github.com/jsreynaud/kicad-action-scripts
+[submodule "KiCost"]
+	path = KiCost
+	url = https://github.com/hildogjr/KiCost
