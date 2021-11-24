@@ -37,6 +37,6 @@
 * https://github.com/Robotips/uConfig
 
 ### 3. kicadStepUpMod
-* MECAD工具，与`FreeCAD`交互
+* MECAD工具，与`FreeCAD`之间同步数据
 * 包括模型精准对齐、编辑PCB轮廓、移动零件位置
 * https://github.com/easyw/kicadStepUpMod/
