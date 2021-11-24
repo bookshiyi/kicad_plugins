@@ -10,3 +10,6 @@
 [submodule "KiCost"]
 	path = KiCost
 	url = https://github.com/hildogjr/KiCost
+[submodule "kicad_scripts"]
+	path = kicad_scripts
+	url = https://github.com/NilujePerchut/kicad_scripts
