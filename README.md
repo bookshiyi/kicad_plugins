@@ -22,6 +22,10 @@
 * 制造文件增强工具
 * https://github.com/xtoolbox/kicad_tools
 
+### 5. [InteractiveHtmlBom](InteractiveHtmlBom)
+* 交互式BOM插件
+* https://github.com/openscopeproject/InteractiveHtmlBom
+
 
 ---
 
