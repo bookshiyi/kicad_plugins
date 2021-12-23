@@ -16,3 +16,15 @@
 [submodule "InteractiveHtmlBom"]
 	path = InteractiveHtmlBom
 	url = https://github.com/openscopeproject/InteractiveHtmlBom
+[submodule "KiKit"]
+	path = KiKit
+	url = https://github.com/yaqwsx/KiKit
+[submodule "Kicad_action_plugins"]
+	path = Kicad_action_plugins
+	url = https://github.com/MitjaNemec/Kicad_action_plugins
+[submodule "PcbDraw"]
+	path = PcbDraw
+	url = https://github.com/yaqwsx/PcbDraw
+[submodule "kicad-3rd-party-tools"]
+	path = kicad-3rd-party-tools
+	url = https://github.com/devbisme/kicad-3rd-party-tools
