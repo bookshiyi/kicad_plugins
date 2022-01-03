@@ -26,7 +26,9 @@
 * 交互式BOM插件
 * https://github.com/openscopeproject/InteractiveHtmlBom
 
-
+### 6. [KiBot](KiBot)
+* 自动化工具
+* https://github.com/INTI-CMNB/KiBot
 ---
 
 ## 独立软件
