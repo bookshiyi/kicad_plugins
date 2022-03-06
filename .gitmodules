@@ -28,3 +28,6 @@
 [submodule "kicad-3rd-party-tools"]
 	path = kicad-3rd-party-tools
 	url = https://github.com/devbisme/kicad-3rd-party-tools
+[submodule "KiAutotext"]
+	path = KiAutotext
+	url = https://github.com/bobc/KiAutotext
